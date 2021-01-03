@@ -6,6 +6,6 @@ In this File Security System application, we mainly show that how to store the f
 •	After receiving the security key and remote controlling credentials through mail, the user will remote control the File Security System application and insert security key and the key will be verified by the system. If successful, user will select the encrypted file to decrypt.
 •	After decryption of the file, he can transfer it to his storage with help of remote controlling application.
 
-Download and install java mail api and change security settings of sender's mail from here https://myaccount.google.com/security
-Put your email and emailpassword from which you want mail to be sent from in SendMail.java 
-Run login.java file.
+1. Download and install java mail api and change security settings of sender's mail from here https://myaccount.google.com/security
+2. Put your email and emailpassword from which you want mail to be sent from in SendMail.java 
+3. Run login.java file.
